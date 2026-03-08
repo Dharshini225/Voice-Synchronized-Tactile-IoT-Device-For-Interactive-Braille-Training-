@@ -1,0 +1,2 @@
+# Voice-Synchronized-Tactile-IoT-Device-For-Interactive-Braille-Training-
+This project presents an IoT-based assistive device designed to support visually impaired individuals in learning Braille. Using voice commands and tactile feedback, the system interacts with users in real time by raising and lowering Braille dots to represent letters and numbers, creating a practical and engaging learning experience. 
